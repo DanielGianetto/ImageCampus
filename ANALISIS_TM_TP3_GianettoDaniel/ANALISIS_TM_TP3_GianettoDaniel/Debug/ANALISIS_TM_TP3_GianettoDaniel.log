@@ -1,0 +1,3 @@
+﻿  ANALISIS_TM_TP3_GianettoDaniel.cpp
+C:\Users\danie\source\repos\ANALISIS_TM_TP3_GianettoDaniel\ANALISIS_TM_TP3_GianettoDaniel\ANALISIS_TM_TP3_GianettoDaniel.cpp(36,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  ANALISIS_TM_TP3_GianettoDaniel.vcxproj -> C:\Users\danie\source\repos\ANALISIS_TM_TP3_GianettoDaniel\Debug\ANALISIS_TM_TP3_GianettoDaniel.exe
